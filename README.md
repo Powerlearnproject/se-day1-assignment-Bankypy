@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Software engineering is simply the process of designing, development and maintaining software. The importance of software engineering in technology industry cannot be underemphasised as it is capable of improving software development life cycle. This implies that software engineering helps to improve the timeframe of software development process.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
